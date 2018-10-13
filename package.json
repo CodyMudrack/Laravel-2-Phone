@@ -1,0 +1,19 @@
+{
+  "name": "laravel-2-phone",
+  "main": "./lib/laravel-2-phone",
+  "version": "0.0.0",
+  "description": "Scan a QR Code and view your Laravel app from your phone!",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "laravel-2-phone:toggle"
+  },
+  "repository": "https://github.com/CodyMudrack/Laravel-2-Phone",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "kill-port": "^1.3.2",
+    "qrcode": "^1.3.0"
+  }
+}

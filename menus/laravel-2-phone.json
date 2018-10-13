@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle laravel-2-phone",
+        "command": "laravel-2-phone:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "laravel-2-phone",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "laravel-2-phone:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
