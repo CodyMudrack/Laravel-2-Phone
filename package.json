@@ -1,7 +1,7 @@
 {
   "name": "laravel-2-phone",
   "main": "./lib/laravel-2-phone",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Scan a QR Code and view your Laravel app from your phone!",
   "keywords": [],
   "activationCommands": {
